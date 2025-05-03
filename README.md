@@ -1,5 +1,17 @@
 # Data_Analysis_BikeStore_Dashboard
-- Data Analysis "Bike Stores" Dashboard Project
+
+## Dashboard
+Tableau Public: [link](https://public.tableau.com/views/BikeStores_lip/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+### Images (Please click to dashboard link for better experience):
+![{E1A98F65-6445-470F-B9EF-D007C19AF52F}](https://github.com/user-attachments/assets/eb5c84ef-9f51-49bf-a1bc-ed979e2d8015)
+![{749CEF7D-E3DF-414B-B3EB-D55255F1DEB4}](https://github.com/user-attachments/assets/3a2dd761-a598-4dc4-8b4b-9a837cffd865)
+![{BFF308FA-F1F2-4396-BA74-87455EFBE9A8}](https://github.com/user-attachments/assets/a2de84fe-6754-4639-a6df-1417c64a5cd4)
+
+
+
+
+
 
 ## BigQuery
 ```sql
